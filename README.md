@@ -37,7 +37,7 @@ Hello, I'm Bryce! I'm a high school sophomore with an interest in programming la
 
   A simple, easy-to-use 2D game engine written in C using SDL2.
 
-- Prot-lang
+- [prot-lang](https://github.com/Bryce101189/prot-lang)
 
   A programming language designed to allow programmers to quickly and easily put together project prototypes.
 
